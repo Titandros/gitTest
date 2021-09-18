@@ -1,3 +1,4 @@
+// ----------------------------------- Practice JS #1 -------------------------------------
 const camelCase = 0;
 const snake_case = 1;
 const PascalCase = 2;
@@ -14,3 +15,4 @@ console.log(PascalCase);
 alert(camelCase);
 alert(snake_case);
 alert(PascalCase);
+// -------------------------------- end region ---------------------------------------------
